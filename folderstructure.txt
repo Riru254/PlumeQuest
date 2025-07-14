@@ -1,0 +1,10 @@
+TAUSI-PROJECT/
+│
+├── tausi/             ← Django settings folder
+├── accounts/          ← Django app
+├── mainapp/           ← Django app
+├── templates/
+├── manage.py
+├── requirements.txt
+├── db.sqlite3
+├── TDvenv/
