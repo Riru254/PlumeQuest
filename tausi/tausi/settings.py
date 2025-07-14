@@ -129,7 +129,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [
-    BASE_DIR / 'tausi' / 'tausi'/ 'static' # Custom static dir
+    BASE_DIR / 'tausi' / 'static' # Custom static dir
     ]
 STATIC_ROOT = BASE_DIR / 'staticfiles'  # Where collectstatic will place files
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
