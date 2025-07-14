@@ -1,1 +1,1 @@
-web: gunicorn tausi.wsgi
+web: gunicorn tausi.tausi.wsgi
